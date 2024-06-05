@@ -1,0 +1,3 @@
+<!-- I begin to speak only when I am certain what I will say is not better left unsaid. - Cato the Younger -->
+<h2 class="text-xl font-bold leading-7 text-gray-900 sm:truncate sm:text-xl sm:tracking-tight">Selamat Datang di Situs PPDB YAYASAN BUSYRI AL ALY MOJOKERTO</h2>
+<p class="text-sm text-left py-2">Situs Ini dipersiapkan sebagai pusat informasi, pendaftaran dan pengelolahan seleksi data siswa atau siswi peserta <strong>PPDB Online</strong> tahun periode <strong>2024/2025</strong> secara online. Informasi lengkap seputar pelaksanaan PPDB akan di update pada situs ini.</p>
